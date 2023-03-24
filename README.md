@@ -9,4 +9,4 @@
 
 Мои соц сети
 
-<a href="https://t.me/DanilChagarnoy">![Group 10](https://user-images.githubusercontent.com/93602867/227558436-05389095-b8bf-459a-9f9b-aedfcb2abe4b.png)</a> ![Group 11](https://user-images.githubusercontent.com/93602867/227558519-11a4f1bb-d3b1-4ada-bb5e-2ef8b0297386.png) ![Group 12](https://user-images.githubusercontent.com/93602867/227558594-962fce35-3c76-474b-8b2b-95a957cd0c9f.png)
+<a href="https://t.me/DanilChagarnoy">![Group 10](https://user-images.githubusercontent.com/93602867/227558436-05389095-b8bf-459a-9f9b-aedfcb2abe4b.png)</a> <a href="https://vk.com/danilggh">![Group 11](https://user-images.githubusercontent.com/93602867/227558519-11a4f1bb-d3b1-4ada-bb5e-2ef8b0297386.png)</a> <a href="https://github.com/Danil148">![Group 12](https://user-images.githubusercontent.com/93602867/227558594-962fce35-3c76-474b-8b2b-95a957cd0c9f.png)</a>
