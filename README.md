@@ -9,3 +9,11 @@
 ### Мои соц сети
 
 <a href="https://t.me/DanilChagarnoy">![TELEGRAM](https://img.shields.io/badge/-telegram-595959?style=for-the-badge&logo=telegram)</a> <a href="https://vk.com/danilggh">![VK](https://img.shields.io/badge/-VK-595959?style=for-the-badge&logo=vk)</a> <a href="https://github.com/Danil148">![GITHUB](https://img.shields.io/badge/-GUTHUB-595959?style=for-the-badge&logo=github)</a>
+
+### Моя статистика
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danil148&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### Часто исполбзуемые языки
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil148&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
