@@ -1,4 +1,4 @@
-![Новый проек2т 1](https://user-images.githubusercontent.com/93602867/227731144-77658757-2878-4cd1-8165-4851de8dd24b.png)
+![Новый пр32оект 1](https://user-images.githubusercontent.com/93602867/227731178-770541d8-71ea-4396-bb31-1dd0eec5fe99.png)
 
 Я Backend разработчик
 
