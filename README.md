@@ -17,3 +17,6 @@
 ### Часто исполбзуемые языки
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil148&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+### Мои график работы с языками
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Danil148)](https://github.com/anuraghazra/github-readme-stats)
