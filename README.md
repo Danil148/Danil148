@@ -12,11 +12,11 @@
 
 ### Моя статистика
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danil148&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Danil148&show_icons=true&theme=dark)](https://github.com/Danil148)
 
 ### Часто используемые языки
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil148&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil148&layout=compact)](https://github.com/Danil148)
 
 ### Мой график работы
 
@@ -28,5 +28,5 @@
 
 ### Мой последний проект
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danil148&repo=CreateFilesPython)](https://github.com/Danil148/CreateFilesPython.git)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Danil148&repo=DecorationReadmyFile)](https://github.com/Danil148/DecorationReadmyFile.git)
 
