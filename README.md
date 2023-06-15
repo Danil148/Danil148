@@ -18,12 +18,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Danil148&layout=compact)](https://github.com/Danil148)
 
-### Мой график работы
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@Danil148)](https://wakatime.com/@Danil148)
-
 ### Опыт в программирование
 
-![AGE](https://img.shields.io/badge/-4_года-595959?style=for-the-badge)
+![AGE](https://img.shields.io/badge/-5_года-595959?style=for-the-badge)
 
 
